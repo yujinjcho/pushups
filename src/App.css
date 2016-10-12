@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.counter {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.chart-container {
+  display: inline-block;
+  border: 1px solid rgba(150,150,150,1);
+  padding-top: 15px;
+}
+
+.chart-container-outer {
+  display: block;
+}
+
+.increment-count {
+  display: block;
+  margin: 20px auto;
+}
